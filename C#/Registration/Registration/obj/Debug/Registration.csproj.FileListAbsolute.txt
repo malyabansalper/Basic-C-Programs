@@ -1,0 +1,5 @@
+/Users/malyabansal/Projects/Registration/Registration/bin/Registration.dll
+/Users/malyabansal/Projects/Registration/Registration/bin/Registration.pdb
+/Users/malyabansal/Projects/Registration/Registration/obj/Debug/Registration.csprojAssemblyReference.cache
+/Users/malyabansal/Projects/Registration/Registration/obj/Debug/Registration.dll
+/Users/malyabansal/Projects/Registration/Registration/obj/Debug/Registration.pdb

@@ -1,0 +1,5 @@
+/Users/malyabansal/Projects/table/table/bin/Debug/table.exe
+/Users/malyabansal/Projects/table/table/bin/Debug/table.pdb
+/Users/malyabansal/Projects/table/table/obj/Debug/table.csprojAssemblyReference.cache
+/Users/malyabansal/Projects/table/table/obj/Debug/table.exe
+/Users/malyabansal/Projects/table/table/obj/Debug/table.pdb
