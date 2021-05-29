@@ -7,7 +7,7 @@ namespace binarysearch
         public static void Main()
         {
             int[] a = new int[100];
-            Console.Write("Number of elements in the array: ");
+            Console.Write("Number of Elements in the array: ");
             string s = Console.ReadLine();
             int x = Int32.Parse(s);
             Console.Write("Enter array elements:  ");
